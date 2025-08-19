@@ -98,8 +98,6 @@ Based in **Liverpool, UK** — open to remote/global work.
 - **Databases and SQL for Data Science with Python — IBM (Jan 26, 2023)**  
   https://www.coursera.org/account/accomplishments/verify/93S8B7QMR53C?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
 
-> Tip: if any links are long, I keep them visible (not hidden behind markdown) so recruiters can **see the source immediately**.
-
 ---
 
 ## Experience snapshot
@@ -139,4 +137,4 @@ Based in **Liverpool, UK** — open to remote/global work.
 **Twitter:** https://twitter.com/clareokafo  
 **Portfolio:** https://clareokafor.github.io
 
-> curious about something I’ve built? open an issue on the repo — I’m happy to talk through the approach.
+> curious about something I’ve built? open an issue on the repo and  I’ll be happy to talk through the approach.
