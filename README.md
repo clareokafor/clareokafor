@@ -75,7 +75,7 @@ Based in **Liverpool, UK** — open to remote/global work.
 
 ---
 
-## Certifications (with verifiable links)
+## Certifications
 
 - **Power BI Data Analytics for All Levels 3.0 — Codebasics (Jul 14, 2025)**  
   https://codebasics.io/certificate/CB-49-569283
@@ -100,7 +100,7 @@ Based in **Liverpool, UK** — open to remote/global work.
 
 ---
 
-## Experience snapshot
+## Experience
 
 - **AI Trainer / Data Scientist — Aligneer (2025– )**  
   Synthetic datasets, LLM evals, and visual analytics for internal decision-making.
@@ -130,7 +130,7 @@ Based in **Liverpool, UK** — open to remote/global work.
 
 ---
 
-## Say hello
+## Stay Connected!
 
 **Email:** okaforjaneclare@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/clareokafor  
