@@ -1,6 +1,6 @@
 # Hi, I’m Ogochukwu Jane Okafor
 
- numbers tell stories — I make them useful.
+> numbers tell stories — I make them useful.
 
 I’m a **Data Scientist / ML Engineer / AI Trainer** with a foot in two worlds:
 - **Education** — I’ve taught economics & statistics and still love explaining complex ideas clearly.
