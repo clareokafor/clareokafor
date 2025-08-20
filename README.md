@@ -72,7 +72,7 @@ Based in **Liverpool, UK** - flexible and open to remote/global work.
 
 ## Experience
 
-- **Data Scientist / AI Trainer — Aligneer (2025– )**  
+- **Data Scientist / AI Trainer — Alignerr (2025– )**  
   Synthetic datasets, LLM evals, and visual analytics for internal decision-making.
 
 - **Data Scientist / AI Trainer — Outlier (2024– )**  
