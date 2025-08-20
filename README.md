@@ -12,17 +12,17 @@ Based in **Liverpool, UK** — open to remote/global work.
 
 ## What I’m good at (and enjoy)
 
-- Building **LLM evaluation** workflows that surface what models can/can’t do
-- Crafting **synthetic datasets** that mimic messy, real business data
-- Turning **analysis → dashboards → decisions** with Power BI/Tableau
-- Connecting **economics + machine learning** to design pragmatic solutions
+- Building **LLM evaluation** workflows that surface what models can/can’t do.
+- Crafting **synthetic datasets** that mimic messy, real business data.
+- Turning **analysis → dashboards → decisions** with Power BI/Tableau.
+- Connecting **economics + machine learning** to design pragmatic solutions.
 
 ---
 
 ## Featured Projects
 
 - [**Multi-Agent AI**](https://github.com/clareokafor/Multi-Agent) → Agent-based system design with Jupyter Notebooks  
-- [**Cache System**](https://github.com/clareokafor/cache) → Python implementation of efficient caching (yes, it’s fast ⚡)  
+- [**Cache System**](https://github.com/clareokafor/cache) → Python implementation of efficient caching  
 - [**Bank Accounts Manager**](https://github.com/clareokafor/Bank-Accounts) → OOP-based financial account simulation  
 - [**Cluster Analysis**](https://github.com/clareokafor/Clusterings) → Unsupervised learning experiments with scikit-learn  
 
@@ -126,8 +126,7 @@ Based in **Liverpool, UK** — open to remote/global work.
 ## Stay Connected!
 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okaforjaneclare@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clareokafor)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okaforjaneclare@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clareokafor)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clareokafor)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/clareokafo)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://clareokafor.github.io)  
