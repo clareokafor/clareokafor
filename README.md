@@ -21,17 +21,10 @@ Based in **Liverpool, UK** — open to remote/global work.
 
 ## Featured Projects
 
-- **Multi-Agent AI** — agentic workflows in Python/Jupyter  
-  <https://github.com/clareokafor/Multi-Agent>
-
-- **Cache System** — a fast, readable Python cache implementation  
-  <https://github.com/clareokafor/cache>
-
-- **Bank Accounts Manager** — OOP simulation for account operations  
-  <https://github.com/clareokafor/Bank-Accounts>
-
-- **Cluster Analysis** — unsupervised learning experiments with scikit-learn  
-  <https://github.com/clareokafor/Clusterings>
+- [**Multi-Agent AI**](https://github.com/clareokafor/Multi-Agent) → Agent-based system design with Jupyter Notebooks  
+- [**Cache System**](https://github.com/clareokafor/cache) → Python implementation of efficient caching (yes, it’s fast ⚡)  
+- [**Bank Accounts Manager**](https://github.com/clareokafor/Bank-Accounts) → OOP-based financial account simulation  
+- [**Cluster Analysis**](https://github.com/clareokafor/Clusterings) → Unsupervised learning experiments with scikit-learn  
 
 👉 Explore the rest: <https://github.com/clareokafor?tab=repositories>
 
@@ -132,9 +125,12 @@ Based in **Liverpool, UK** — open to remote/global work.
 
 ## Stay Connected!
 
-**Email:** okaforjaneclare@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/clareokafor  
-**Twitter:** https://twitter.com/clareokafo  
-**Portfolio:** https://clareokafor.github.io
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okaforjaneclare@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clareokafor)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clareokafor)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/clareokafo)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://clareokafor.github.io)  
+
 
 > curious about something I’ve built? open an issue on the repo and  I’ll be happy to talk through the approach.
