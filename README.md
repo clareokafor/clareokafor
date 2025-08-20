@@ -68,6 +68,21 @@ Based in **Liverpool, UK** — open to remote/global work.
 
 ---
 
+## Experience
+
+- **AI Trainer / Data Scientist — Aligneer (2025– )**  
+  Synthetic datasets, LLM evals, and visual analytics for internal decision-making.
+
+- **AI Trainer / Data Scientist — Outlier (2024– )**  
+  Python + GitHub workflows for LLM evaluation; prompt engineering for multimodal data.
+
+- **Lecturer — Federal College of Education (2019– )**  
+  Taught economics, research, and statistics; brought 100+ students online during COVID.
+
+- **BI Analyst — MyBizPro (2019–2020)**  
+  Built stock-tracking dashboards that cut stock-outs by **25%**.
+
+---
 ## Certifications
 
 - **Power BI Data Analytics for All Levels 3.0 — Codebasics (Jul 14, 2025)**  
@@ -90,22 +105,6 @@ Based in **Liverpool, UK** — open to remote/global work.
 
 - **Databases and SQL for Data Science with Python — IBM (Jan 26, 2023)**  
   https://www.coursera.org/account/accomplishments/verify/93S8B7QMR53C?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
-
----
-
-## Experience
-
-- **AI Trainer / Data Scientist — Aligneer (2025– )**  
-  Synthetic datasets, LLM evals, and visual analytics for internal decision-making.
-
-- **AI Trainer / Data Scientist — Outlier (2024– )**  
-  Python + GitHub workflows for LLM evaluation; prompt engineering for multimodal data.
-
-- **Lecturer — Federal College of Education (2019– )**  
-  Taught economics, research, and statistics; brought 100+ students online during COVID.
-
-- **BI Analyst — MyBizPro (2019–2020)**  
-  Built stock-tracking dashboards that cut stock-outs by **25%**.
 
 ---
 
