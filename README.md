@@ -8,7 +8,7 @@ I’m a **Data Scientist / ML Engineer / AI Trainer** with a foot in two worlds:
 - **Education** — I’ve taught economics & statistics and still love explaining complex ideas clearly.
 - **Applied AI** — I build LLM evaluation pipelines, design synthetic datasets, and ship dashboards that change decisions.
 
-Based in **Liverpool, UK**; flexible and open to remote/global work.
+Based in **Liverpool, UK** - flexible and open to remote/global work.
 
 ---
 
