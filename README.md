@@ -72,10 +72,10 @@ Based in **Liverpool, UK** - flexible and open to remote/global work.
 
 ## Experience
 
-- **AI Trainer / Data Scientist — Aligneer (2025– )**  
+- **Data Scientist | AI Trainer — Aligneer (2025– )**  
   Synthetic datasets, LLM evals, and visual analytics for internal decision-making.
 
-- **AI Trainer / Data Scientist — Outlier (2024– )**  
+- **Data Scientist | AI Trainer — Outlier (2024– )**  
   Python + GitHub workflows for LLM evaluation; prompt engineering for multimodal data.
 
 - **Lecturer — Federal College of Education (2019– )**  
