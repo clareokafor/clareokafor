@@ -1,5 +1,5 @@
 # Hi, I’m Ogochukwu Jane Okafor [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okaforjaneclare@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clareokafor) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://clareokafor.github.io) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/clareokafo) 
-> numbers tell stories — I make them useful.
+> numbers tell stories, I make them useful.
 
 
 
@@ -8,7 +8,7 @@ I’m a **Data Scientist / ML Engineer / AI Trainer** with a foot in two worlds:
 - **Education** — I’ve taught economics & statistics and still love explaining complex ideas clearly.
 - **Applied AI** — I build LLM evaluation pipelines, design synthetic datasets, and ship dashboards that change decisions.
 
-Based in **Liverpool, UK** — open to remote/global work.
+Based in **Liverpool, UK**; open to remote/global work.
 
 ---
 
