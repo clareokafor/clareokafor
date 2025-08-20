@@ -87,26 +87,13 @@ Based in **Liverpool, UK** — open to remote/global work.
 ---
 ## Certifications
 
-- **Power BI Data Analytics for All Levels 3.0 — Codebasics (Jul 14, 2025)**  
-  https://codebasics.io/certificate/CB-49-569283
-
-- **Excel: Mother of Business Intelligence — Codebasics (Jun 18, 2025)**  
-  https://codebasics.io/certificate/CB-51-569283
-
-- **Data Analytics Job Simulation — KPMG AU (Dec 13, 2023)**  
-  https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_ixLTnHqhkdEC5Cnsm_1702502441393_completion_certificate.pdf
-
-- **Share Data Through the Art of Visualization — Google (Feb 6, 2023)**  
-  https://www.coursera.org/account/accomplishments/verify/NLL4SGU4K2JS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
-
-- **Supervised Machine Learning: Regression & Classification — DeepLearning.AI (Jan 27, 2023)**  
-  https://www.coursera.org/account/accomplishments/verify/2KA4G9BPP646?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
-
-- **Databases and SQL for Data Science — IBM (Jan 26, 2023)**  
-  https://www.credly.com/badges/a495c0d8-864c-4616-b50a-4372b00ac039/public_url
-
-- **Databases and SQL for Data Science with Python — IBM (Jan 26, 2023)**  
-  https://www.coursera.org/account/accomplishments/verify/93S8B7QMR53C?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+- [**Power BI Data Analytics for All Levels 3.0 — Codebasics (Jul 14, 2025)**](https://codebasics.io/certificate/CB-49-569283)  
+- [**Excel: Mother of Business Intelligence — Codebasics (Jun 18, 2025)**](https://codebasics.io/certificate/CB-51-569283)  
+- [**Data Analytics Job Simulation — KPMG AU (Dec 13, 2023)**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_ixLTnHqhkdEC5Cnsm_1702502441393_completion_certificate.pdf)  
+- [**Share Data Through the Art of Visualization — Google (Feb 6, 2023)**](https://www.coursera.org/account/accomplishments/verify/NLL4SGU4K2JS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)  
+- [**Supervised Machine Learning: Regression & Classification — DeepLearning.AI (Jan 27, 2023)**](https://www.coursera.org/account/accomplishments/verify/2KA4G9BPP646?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)  
+- [**Databases and SQL for Data Science — IBM (Jan 26, 2023)**](https://www.credly.com/badges/a495c0d8-864c-4616-b50a-4372b00ac039/public_url)  
+- [**Databases and SQL for Data Science with Python — IBM (Jan 26, 2023)**](https://www.coursera.org/account/accomplishments/verify/93S8B7QMR53C?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)  
 
 ---
 
