@@ -46,7 +46,7 @@ Based in Edinburgh, UK and open to UK-based, remote and global opportunities.
 
 - [**Cluster Analysis**](https://github.com/clareokafor/Clusterings) → Unsupervised learning experiments with scikit-learn.  
 
-👉 Explore the rest: <https://github.com/clareokafor?tab=repositories>
+👉 Explore the full respositories: <https://github.com/clareokafor?tab=repositories>
 
 ---
 
