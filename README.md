@@ -123,12 +123,4 @@ Based in Edinburgh, UK and open to UK-based, remote and global opportunities.
 - **Mobility Aids Volunteer — British Red Cross, Liverpool (2022–2023)**
 
 ---
-
-## GitHub at a glance
-
-![Clare's GitHub stats](https://github-readme-stats.vercel.app/api?username=clareokafor&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clareokafor&layout=compact&theme=tokyonight)
-
----
-
 > curious about something I’ve built? open an issue on the repo and  I’ll be happy to talk through the approach.
