@@ -106,7 +106,8 @@ Based in Edinburgh, UK and open to UK-based, remote and global opportunities.
 
 ---
 ## Certifications
-
+- [**Academy Accreditation - Generative AI Fundamentals — Databricks (Oct 17, 2025**](https://credentials.databricks.com/bbb8d3cc-7e2c-4863-b003-aa09ca62cdaa#acc.WBDcgIzl)  
+- [**Academy Accreditation - AI Agent Fundamentals — Databrick(Oct 17, 2025)s**](https://credentials.databricks.com/c5904472-81ac-4a49-9998-f505e0d6ef02#acc.5bJlgPCF)  
 - [**Power BI Data Analytics for All Levels 3.0 — Codebasics (Jul 14, 2025)**](https://codebasics.io/certificate/CB-49-569283)  
 - [**Excel: Mother of Business Intelligence — Codebasics (Jun 18, 2025)**](https://codebasics.io/certificate/CB-51-569283)  
 - [**Data Analytics Job Simulation — KPMG AU (Dec 13, 2023)**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_ixLTnHqhkdEC5Cnsm_1702502441393_completion_certificate.pdf)  
