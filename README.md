@@ -1,32 +1,50 @@
-# Hi, I’m Ogochukwu [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okaforjaneclare@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clareokafor) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://clareokafor.github.io) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/clareokafo) 
+# Hi, I’m Ogochukwu [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okaforjaneclare@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clareokafor) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://clareokafor.github.io) 
 > numbers tell stories, I make them useful.
 
 
 
 
-I’m a **Data Scientist / ML Engineer / AI Trainer** with a foot in two worlds:
-- **Education** — I’ve taught economics & statistics and still love explaining complex ideas clearly.
-- **Applied AI** — I build LLM evaluation pipelines, design synthetic datasets, and ship dashboards that change decisions.
+I’m a Data Scientist / ML Engineer / AI Trainer with experience in data analysis, machine learning, AI evaluation and business intelligence.
+My background cuts across a few areas:
+- **Data & Analytics** — working with data using Python, SQL, Excel and Power BI to find useful patterns and support decisions.
+- **Applied AI** — evaluating AI outputs, creating prompts and rubrics, working with synthetic datasets, debugging code and writing unit tests.
+- **Education** — teaching economics, research and statistics, which has helped me become comfortable explaining technical ideas clearly.
 
-Based in **Liverpool, UK** - flexible and open to remote/global work.
+Based in Edinburgh, UK and open to UK-based, remote and global opportunities.
 
 ---
 
 ## What I’m good at (and enjoy)
 
-- Building **LLM evaluation** workflows that surface what models can/can’t do.
-- Crafting **synthetic datasets** that mimic messy, real business data.
-- Turning **analysis → dashboards → decisions** with Power BI/Tableau.
-- Connecting **economics + machine learning** to design pragmatic solutions.
+- Working with **Python** and **SQL** to clean, analyse and validate data.
+- Building **LLM** evaluation workflows and reviewing model outputs.
+- Creating and working with **synthetic datasets**.
+- Finding **trends, patterns, anomalies and areas of risk** in data.
+- Building reports and dashboards with **Power BI** and **Tableau**.
+- Applying **machine learning and statistical methods** to real problems.
+- Reviewing code, debugging issues and writing **unit tests** using Docker, Cursor and GitHub.
 
 ---
 
 ## Featured Projects
 
-- [**Multi-Agent AI**](https://github.com/clareokafor/Multi-Agent) → Agent-based system design with Jupyter Notebooks  
-- [**Cache System**](https://github.com/clareokafor/cache) → Python implementation of efficient caching  
-- [**Bank Accounts Manager**](https://github.com/clareokafor/Bank-Accounts) → OOP-based financial account simulation  
-- [**Cluster Analysis**](https://github.com/clareokafor/Clusterings) → Unsupervised learning experiments with scikit-learn  
+- [**Care Quality Commission – Care Quality & Risk Analytics**](https://app.powerbi.com/view?r=eyJrIjoiMDliNWE5ZmEtNTQ0NC00MmEwLTgxYzUtNzA3ZDM0ZDI4NDI3IiwidCI6ImYyMDIxN2JmLWEwYzYtNDZlNi1hMTdmLTY3YzkwNTY0NDgwZiJ9) → Analysed CQC inspection and ratings data using Python, Power Query and Power BI to explore care quality and risk across regions, local authorities, service types and inspection domains.  
+
+- [**Business Insight 360**](https://app.powerbi.com/view?r=eyJrIjoiZGRhNjYwYTUtZWE3Zi00MzkyLWJhMmItZDE0NzY3NjFkYjJiIiwidCI6ImYyMDIxN2JmLWEwYzYtNDZlNi1hMTdmLTY3YzkwNTY0NDgwZiJ9) → Built a Power BI reporting solution for AtliQ Hardware covering finance, sales, marketing, supply chain and executive reporting using 1.8M+ records from MySQL and Excel.  
+
+- [**Excel Sales Data Analytics**](https://github.com/clareokafor/Excel-Sales-Data-Analytics) → Built sales and finance reports using Excel, Power Query, Power Pivot and DAX, covering customer performance, targets, profit and loss, product trends and gross margin.  
+
+- [**Bitcoin Future Price Prediction**](https://github.com/clareokafor/Bitcoin-Future-Prices-Using-Machine-Learning-Models) → Used historical Bitcoin-GBP data to compare MLP, LSTM, Random Forest and Gradient Boosting models for price prediction.  
+
+- [**Semantic Segmentation**](https://github.com/clareokafor/Semantic-Segmentation) → Compared FCN, PSPNet and U-Net architectures for image segmentation, including data augmentation, model tuning and performance evaluation.  
+
+- [**Multi-Agent AI**](https://github.com/clareokafor/Multi-Agent) → Agent-based system design with Jupyter Notebooks.  
+
+- [**Cache System**](https://github.com/clareokafor/cache) → Python implementation of an efficient caching system.  
+
+- [**Bank Accounts Manager**](https://github.com/clareokafor/Bank-Accounts) → OOP-based financial account simulation.  
+
+- [**Cluster Analysis**](https://github.com/clareokafor/Clusterings) → Unsupervised learning experiments with scikit-learn.  
 
 👉 Explore the rest: <https://github.com/clareokafor?tab=repositories>
 
@@ -56,7 +74,7 @@ Based in **Liverpool, UK** - flexible and open to remote/global work.
 **Cloud / DevOps / Data**
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -72,10 +90,12 @@ Based in **Liverpool, UK** - flexible and open to remote/global work.
 
 ## Experience
 
-- **Data Scientist / AI Trainer — Alignerr (2025– )**  
+- **Data Analyst** — Abia State University (2022–Present)
+  Work with academic and administrative data using SQL, Excel and Power BI. My work includes cleaning and validating data, preparing reports and helping staff make sense of the information available to them.
+- **Data Scientist / AI Trainer — Alignerr (2025–2026)**  
   Synthetic datasets, LLM evals, and visual analytics for internal decision-making.
 
-- **Data Scientist / AI Trainer — Outlier (2024– )**  
+- **Data Scientist / AI Trainer — Outlier (2024–2026 )**  
   Python + GitHub workflows for LLM evaluation; prompt engineering for multimodal data.
 
 - **Lecturer — Federal College of Education (2019– )**  
